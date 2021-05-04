@@ -1,0 +1,1 @@
+esnon n = rem n 2 == 1

@@ -1,0 +1,1 @@
+modulo x y = if x `mod` y == x then "Si es modulo" else "No es modulo"
